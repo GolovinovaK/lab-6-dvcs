@@ -11,3 +11,8 @@ double c1;
 double c2;
 double c3;
 double c4;
+
+int d1;
+int d2;
+int d3;
+float d4;

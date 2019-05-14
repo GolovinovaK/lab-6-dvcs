@@ -9,5 +9,5 @@ float b4;
 
 double c1;
 double c2;
-double c3;
+//change 12 string
 //change 13 string

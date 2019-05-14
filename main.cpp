@@ -3,7 +3,7 @@ int a2;
 int a3;
 
 //change 5 string
-float b2;
+//change 6 string
 float b3;
 float b4;
 

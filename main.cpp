@@ -7,7 +7,7 @@ float b2;
 float b3;
 float b4;
 
-double c1;
+//change 10 string
 double c2;
 double c3;
 double c4;
